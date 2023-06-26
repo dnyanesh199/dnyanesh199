@@ -29,6 +29,6 @@
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  People don't care about what you say, they care about what you build<br>
+  
 </p>
