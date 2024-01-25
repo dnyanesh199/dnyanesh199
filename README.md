@@ -29,6 +29,6 @@
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
-  People don't care about what you say, they care about what you build<br>
+  People don't care about what you say, they care about what you build... So let's focus on Building<br>
   
 </p>
